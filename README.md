@@ -13,6 +13,11 @@ The objective of this project is to design a simple and low-cost heart rate moni
 The pulse sensor works based on photoplethysmography (PPG). It uses light to detect changes in blood volume in the fingertip. Each heartbeat causes a small change in blood flow which is detected by the sensor. The microcontroller processes this signal and calculates the heart rate in BPM.
 ## Circuit Diagram
 The pulse sensor is connected to the analog input pin of the Arduino. The sensor reads the pulse signal and sends it to the microcontroller for processing.
+
+
+<img src="images/project.jpg" width="500">
+
+![Circuit](‪E:\assignment(arduino)\simulation.jpg)
 ## Installation
 1. Connect the pulse sensor to Arduino.
 2. Upload the Arduino code to the board.
