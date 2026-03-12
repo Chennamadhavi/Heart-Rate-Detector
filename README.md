@@ -15,7 +15,9 @@ The pulse sensor works based on photoplethysmography (PPG). It uses light to det
 The pulse sensor is connected to the analog input pin of the Arduino. The sensor reads the pulse signal and sends it to the microcontroller for processing.
 ![Circuit](circuit_diagram.jpg)
 ## ArduinoIDE Serial Monitor
-![Circuit](circuit_diagram.jpg)
+![Circuit](IDE serialmonitor.png)
+## Python Output
+![Circuit](jupyter_output.png)
 ## Installation
 1. Connect the pulse sensor to Arduino.
 2. Upload the Arduino code to the board.
